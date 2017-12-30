@@ -39,6 +39,8 @@ p {
     border-radius: 4px;
     font-size: 80%;
     outline: none;
+    display: inline-block;
+    margin: 5px auto;
 }
 
 .button:active {
